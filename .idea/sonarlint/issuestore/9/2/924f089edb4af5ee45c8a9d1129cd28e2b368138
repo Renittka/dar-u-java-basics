@@ -1,10 +1,57 @@
 
 7
-java:S1220""Move this file to a named package.8´éãç¬1
-G	java:S106"+Replace this use of System.out by a logger.( …òƒ8¸éãç¬1
-G	java:S106"+Replace this use of System.out by a logger.(ñ‚ûÛ8¸éãç¬1
-G	java:S106"+Replace this use of System.out by a logger.(¢Àı»8¹éãç¬1
-F	java:S106"+Replace this use of System.out by a logger.(Í¹-8¹éãç¬1
-G	java:S106"+Replace this use of System.out by a logger.(¹œı8¹éãç¬1
-L	java:S106"+Replace this use of System.out by a logger.(ä®ª™üÿÿÿÿ8¹éãç¬1
-L	java:S106	"+Replace this use of System.out by a logger.(¾ëÁ°şÿÿÿÿ8¹éãç¬1
+java:S1220""Move this file to a named package.8“º˜ã­1
+^
+java:S1854@"<Remove this useless assignment to local variable "mynumber".(ĞÕ…ûÿÿÿÿ8˜º˜ã­1
+X
+java:S1854?"<Remove this useless assignment to local variable "myNumber".(“÷ë/8˜º˜ã­1
+X
+java:S1854="6Remove this useless assignment to local variable "PI".(ä•¬¸ÿÿÿÿÿ8™º˜ã­1
+b
+java:S1854"@Remove this useless assignment to local variable "myNewLetterD".(‘å©ûÿÿÿÿ8™º˜ã­1
+]
+java:S1854";Remove this useless assignment to local variable "letterB".(şªíùÿÿÿÿ8™º˜ã­1
+R
+java:S1854"5Remove this useless assignment to local variable "c".(êˆıÿ8™º˜ã­1
+G
+java:S1659"%Declare "letterB" on a separate line.(şªíùÿÿÿÿ8™º˜ã­1
+B
+java:S16592" Declare "b1" on a separate line.(¦õ”•ÿÿÿÿÿ8™º˜ã­1
+Z
+java:S16595">Declare "y" and all following declarations on a separate line.(ÅÜ \8™º˜ã­1
+G	java:S106"+Replace this use of System.out by a logger.(­ –8šº˜ã­1
+L	java:S106"+Replace this use of System.out by a logger.(ÿ’‘Îıÿÿÿÿ8šº˜ã­1
+L	java:S106	"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8šº˜ã­1
+L	java:S106
+"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8šº˜ã­1
+C
+java:S1481"&Remove this unused "c" local variable.(êˆıÿ8šº˜ã­1
+L	java:S106"+Replace this use of System.out by a logger.(§É•·şÿÿÿÿ8šº˜ã­1
+G	java:S106"+Replace this use of System.out by a logger.(·³‡©8šº˜ã­1
+L	java:S106"+Replace this use of System.out by a logger.(Ä”Ùûÿÿÿÿ8›º˜ã­1
+G	java:S106"+Replace this use of System.out by a logger.(‡¤Ÿ”8›º˜ã­1
+]	java:S125"<This block of commented-out lines of code should be removed.(ò¸ˆ¬úÿÿÿÿ8›º˜ã­1
+]	java:S125"<This block of commented-out lines of code should be removed.(ò¸ˆ¬úÿÿÿÿ8›º˜ã­1
+N
+java:S1481",Remove this unused "letterB" local variable.(şªíùÿÿÿÿ8›º˜ã­1
+S
+java:S1481"1Remove this unused "myNewLetterD" local variable.(‘å©ûÿÿÿÿ8›º˜ã­1
+G	java:S106 "+Replace this use of System.out by a logger.(şò…‰8›º˜ã­1
+G	java:S106#"+Replace this use of System.out by a logger.(Ò‰»8›º˜ã­1
+L
+java:S1481&"*Remove this unused "flag1" local variable.(Èşíôüÿÿÿÿ8›º˜ã­1
+G	java:S106("+Replace this use of System.out by a logger.(Ò‰»8›º˜ã­1
+F	java:S106+"+Replace this use of System.out by a logger.(ƒÚáB8›º˜ã­1
+F	java:S106-"+Replace this use of System.out by a logger.(ƒÚáB8›º˜ã­1
+F	java:S1060"+Replace this use of System.out by a logger.(ƒÚáB8›º˜ã­1
+L	java:S1063"+Replace this use of System.out by a logger.(şŸªşÿÿÿÿ8œº˜ã­1
+L	java:S1067"+Replace this use of System.out by a logger.(¨·½ÿÿÿÿÿ8œº˜ã­1
+F	java:S106;"+Replace this use of System.out by a logger.(Æäó#8ª£¥ã­1
+I
+java:S1481="'Remove this unused "PI" local variable.(ä•¬¸ÿÿÿÿÿ8œº˜ã­1
+I
+java:S1481?"-Remove this unused "myNumber" local variable.(“÷ë/8œº˜ã­1
+O
+java:S1481@"-Remove this unused "mynumber" local variable.(ĞÕ…ûÿÿÿÿ8œº˜ã­1
+X	java:S125C"<This block of commented-out lines of code should be removed.( …òƒ8œº˜ã­1
+L	java:S106T"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8„ÿ³ã­1
