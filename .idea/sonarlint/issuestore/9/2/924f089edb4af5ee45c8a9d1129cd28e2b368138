@@ -1,57 +1,32 @@
 
-7
-java:S1220""Move this file to a named package.8“º˜ã­1
-^
-java:S1854@"<Remove this useless assignment to local variable "mynumber".(ĞÕ…ûÿÿÿÿ8˜º˜ã­1
-X
-java:S1854?"<Remove this useless assignment to local variable "myNumber".(“÷ë/8˜º˜ã­1
-X
-java:S1854="6Remove this useless assignment to local variable "PI".(ä•¬¸ÿÿÿÿÿ8™º˜ã­1
-b
-java:S1854"@Remove this useless assignment to local variable "myNewLetterD".(‘å©ûÿÿÿÿ8™º˜ã­1
-]
-java:S1854";Remove this useless assignment to local variable "letterB".(şªíùÿÿÿÿ8™º˜ã­1
-R
-java:S1854"5Remove this useless assignment to local variable "c".(êˆıÿ8™º˜ã­1
-G
-java:S1659"%Declare "letterB" on a separate line.(şªíùÿÿÿÿ8™º˜ã­1
-B
-java:S16592" Declare "b1" on a separate line.(¦õ”•ÿÿÿÿÿ8™º˜ã­1
-Z
-java:S16595">Declare "y" and all following declarations on a separate line.(ÅÜ \8™º˜ã­1
-G	java:S106"+Replace this use of System.out by a logger.(­ –8šº˜ã­1
-L	java:S106"+Replace this use of System.out by a logger.(ÿ’‘Îıÿÿÿÿ8šº˜ã­1
-L	java:S106	"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8šº˜ã­1
-L	java:S106
-"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8šº˜ã­1
-C
-java:S1481"&Remove this unused "c" local variable.(êˆıÿ8šº˜ã­1
-L	java:S106"+Replace this use of System.out by a logger.(§É•·şÿÿÿÿ8šº˜ã­1
-G	java:S106"+Replace this use of System.out by a logger.(·³‡©8šº˜ã­1
-L	java:S106"+Replace this use of System.out by a logger.(Ä”Ùûÿÿÿÿ8›º˜ã­1
-G	java:S106"+Replace this use of System.out by a logger.(‡¤Ÿ”8›º˜ã­1
-]	java:S125"<This block of commented-out lines of code should be removed.(ò¸ˆ¬úÿÿÿÿ8›º˜ã­1
-]	java:S125"<This block of commented-out lines of code should be removed.(ò¸ˆ¬úÿÿÿÿ8›º˜ã­1
-N
-java:S1481",Remove this unused "letterB" local variable.(şªíùÿÿÿÿ8›º˜ã­1
-S
-java:S1481"1Remove this unused "myNewLetterD" local variable.(‘å©ûÿÿÿÿ8›º˜ã­1
-G	java:S106 "+Replace this use of System.out by a logger.(şò…‰8›º˜ã­1
-G	java:S106#"+Replace this use of System.out by a logger.(Ò‰»8›º˜ã­1
-L
-java:S1481&"*Remove this unused "flag1" local variable.(Èşíôüÿÿÿÿ8›º˜ã­1
-G	java:S106("+Replace this use of System.out by a logger.(Ò‰»8›º˜ã­1
-F	java:S106+"+Replace this use of System.out by a logger.(ƒÚáB8›º˜ã­1
-F	java:S106-"+Replace this use of System.out by a logger.(ƒÚáB8›º˜ã­1
-F	java:S1060"+Replace this use of System.out by a logger.(ƒÚáB8›º˜ã­1
-L	java:S1063"+Replace this use of System.out by a logger.(şŸªşÿÿÿÿ8œº˜ã­1
-L	java:S1067"+Replace this use of System.out by a logger.(¨·½ÿÿÿÿÿ8œº˜ã­1
-F	java:S106;"+Replace this use of System.out by a logger.(Æäó#8ª£¥ã­1
-I
-java:S1481="'Remove this unused "PI" local variable.(ä•¬¸ÿÿÿÿÿ8œº˜ã­1
-I
-java:S1481?"-Remove this unused "myNumber" local variable.(“÷ë/8œº˜ã­1
-O
-java:S1481@"-Remove this unused "mynumber" local variable.(ĞÕ…ûÿÿÿÿ8œº˜ã­1
-X	java:S125C"<This block of commented-out lines of code should be removed.( …òƒ8œº˜ã­1
-L	java:S106T"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8„ÿ³ã­1
+j
+java:S1192("MDefine a constant instead of duplicating this literal "------------" 3 times.(áñÁ·8ü¿ƒˆ¯1
+?
+java:S21899""Correct this loop's end condition.(®¢ºÉ8ƒÀƒˆ¯1
+W
+java:S1854":Remove this useless assignment to local variable "result".(¥ğÛ°8„Àƒˆ¯1
+G	java:S106"+Replace this use of System.out by a logger.(Š¦ÊŸ8…Àƒˆ¯1
+G	java:S106"+Replace this use of System.out by a logger.(ÿ½šå8…Àƒˆ¯1
+G	java:S106"+Replace this use of System.out by a logger.(ªÖ÷–8…Àƒˆ¯1
+G	java:S106"+Replace this use of System.out by a logger.(¿³¢8…Àƒˆ¯1
+G	java:S106"+Replace this use of System.out by a logger.(ÏÓ©Œ8…Àƒˆ¯1
+H
+java:S1481"+Remove this unused "result" local variable.(¥ğÛ°8…Àƒˆ¯1
+L	java:S106"+Replace this use of System.out by a logger.(–Ä×ıÿÿÿÿ8†Àƒˆ¯1
+G	java:S106"+Replace this use of System.out by a logger.(œ¹Œµ8†Àƒˆ¯1
+L	java:S106#"+Replace this use of System.out by a logger.(Æ‘Ÿÿÿÿÿÿ8†Àƒˆ¯1
+L	java:S106$"+Replace this use of System.out by a logger.(ñ‡½ıÿÿÿÿ8†Àƒˆ¯1
+L	java:S106%"+Replace this use of System.out by a logger.(¾øğ®şÿÿÿÿ8†Àƒˆ¯1
+F	java:S106&"+Replace this use of System.out by a logger.(å¿ü:8†Àƒˆ¯1
+G	java:S106("+Replace this use of System.out by a logger.(áñÁ·8†Àƒˆ¯1
+L	java:S106*"+Replace this use of System.out by a logger.(Æ‘Ÿÿÿÿÿÿ8†Àƒˆ¯1
+G	java:S106+"+Replace this use of System.out by a logger.(“Ø„‰8†Àƒˆ¯1
+L	java:S106,"+Replace this use of System.out by a logger.(áÓñøúÿÿÿÿ8†Àƒˆ¯1
+F	java:S106-"+Replace this use of System.out by a logger.(å¿ü:8†Àƒˆ¯1
+G	java:S1060"+Replace this use of System.out by a logger.(‚¨Ö§8†Àƒˆ¯1
+G	java:S1062"+Replace this use of System.out by a logger.(áñÁ·8‡Àƒˆ¯1
+F	java:S1065"+Replace this use of System.out by a logger.(÷Å‘Y8‡Àƒˆ¯1
+G	java:S1067"+Replace this use of System.out by a logger.(áñÁ·8‡Àƒˆ¯1
+W
+java:S22519":"i1" is incremented and will never reach "stop condition".(®¢ºÉ8‡Àƒˆ¯1
+F	java:S106:"+Replace this use of System.out by a logger.(÷Å‘Y8‡Àƒˆ¯1

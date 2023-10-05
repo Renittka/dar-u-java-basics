@@ -2,60 +2,108 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // Narrowing
-        double d = 24.5;
-        int a = (int) d;
-        System.out.println("Result of narrowing: " + a);
+        int b = 5;
+        int a = 10;
 
-        // 24   --> 0.5
-        // 24.0
-        float f = a;
-        System.out.println("Result: " + f);
+        boolean result = a == b;
+        System.out.println(a + " == " + b + ": " + result);
+        System.out.println(a + " > " + b + ": " + (a > b));
+        System.out.println(a + " < " + b + ": " + (a < b));
+        System.out.println(a + " != " + b + ": " + (a != b));
+        System.out.println(a + " >= " + b + ": " + (a >= b));
+        System.out.println(a + " <= " + b + ": " + (a <= b));
 
-        // Widening
-        byte b = 7;
-        int i = b;
-        System.out.println("Result of widening: " + i);
+        /*
+         1       2      AND     OR      NOT     XOR
+        true    true    true    true    false   false
+        true    false   false   true    false   true
+        false   true    false   true    true    true
+        false   false   false   false   true    false
+         */
 
-        float f1 = 24.5f;
-        double d1 = f1;
-        System.out.println("Result of  float-double: " + d1);
+        int c = 7;
 
-        System.out.println(20 / 2);
+        System.out.println(a > b);
+        System.out.println(b > c);
+        System.out.println(a > b & b > c);
+        System.out.println(a > b | b > c);
+        System.out.println(!(a > b));
+        System.out.println(a > b ^ b < c);
 
+        /*
+        | - OR
+        shortcut: || - OR
+        a > b | b > c
+        true  ---> true
+        false -  false   --- > false
 
-        int result = 20 / 2;
-        int doubleResult = (int) (20 / 2.7);
-        double doubleRes = 20 / 2.7;
-        System.out.println(doubleResult);
-        System.out.println(doubleRes);
+        &
+        a > b & b > c
+        false -- false  ------> false
 
+        &&
+        a > b && (b > c && d < b && b > k)
+        false   ------> false
+         */
 
-        a = 20;
-        System.out.println("Original: " + a);
-        System.out.println("Prefix increment: " + (++a));
-        System.out.println("Postfix increment: " + (a++));
-        System.out.println("Final: " + a);
-
-        System.out.println("------------");
-        a = 20;
-        System.out.println("Original: " + a);
-        System.out.println("Prefix decrement: " + (--a)); //1. a = a - 1 = 20 - 1; 2. Вывод
-        System.out.println("Postfix decrement: " + (a--)); // 1. Вывод 2. 19 - 1 = 18
-        System.out.println("Final: " + a);
-
-        int sum = a + ++b;
-        System.out.println(sum);
-
-        System.out.println("------------");
-
-        for(int i1 = 0; i1 < 5; i1++) {
-            System.out.println(i1);
+        int e = 40;
+        int d = 10;
+        if (e > d || 20 < 10) {
+            System.out.println(e + " больше чем " + d);
         }
-        System.out.println("------------");
 
-        for (int i1 = 5; i1 > 0; i1++) {
-            System.out.println(i1);
+        if (e < 0) {
+            System.out.println("Ошибка");
+        } else {
+            System.out.println("Все хорошо");
+        }
+
+        int time = 20;
+        int alarm;
+
+        if (time >= 1 && time < 18) { // false
+            alarm = time;
+            System.out.println("Добрый день! Время будильника: " + alarm);
+        } else if (time >= 18 && time <= 21) { // false
+            alarm = time;
+            System.out.println("Добрый вечер");
+        } else if (time > 21 && time <= 24) { // false
+            alarm = time;
+
+            System.out.println("Доброй ночи");
+        } else {
+            System.out.println("Введите корректное значение времени");
+        }
+
+        String day = "MONDAY";
+
+        switch (day) {
+            case "MONDAY": {
+                System.out.println("Понедельник");
+                break;
+            }
+            case "TUESDAY": {
+                System.out.println("Вторник");
+                break;
+            }
+            case "WEDNESDAY": {
+                System.out.println("Среда");
+                break;
+            }
+            default: {
+                System.out.println("Выходной");
+            }
+        }
+
+        switch (day) {
+            case "MONDAY" -> System.out.println("Понедельник");
+            case "TUESDAY" -> {
+                System.out.println("Вторник");
+                System.out.println("Пора работать");
+            }
+            case "WEDNESDAY" -> System.out.println("Среда");
+            default -> System.out.println("Выходной");
+
         }
 
     }
