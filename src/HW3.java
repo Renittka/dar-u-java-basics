@@ -18,10 +18,10 @@ public class HW3 {
 
         /*
          1       2      AND     OR      NOT     XOR
-        true    true    true    true    false   false
-        true    false   false   true    false   true
-        false   true    false   true    true    true
-        false   false   false   false   true    false
+     1  true    true    true    true    false   false
+     2  true    false   false   true    false   true
+     3  false   true    false   true    true    true
+     4  false   false   false   false   true    false
          */
 
         int c = 7;
@@ -37,12 +37,19 @@ public class HW3 {
         | - OR
         shortcut: || - OR
         a > b | b > c
+        true true - true
+        true false - true
+
+        a > b || b > c
         true  ---> true
-        false -  false   --- > false
+        false -  false   ---> false
+        false -  true    ---> true
 
         &
         a > b & b > c
         false -- false  ------> false
+        true --- true  ----> true
+        false
 
         &&
         a > b && (b > c && d < b && b > k)
