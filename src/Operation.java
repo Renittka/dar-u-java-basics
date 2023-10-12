@@ -54,12 +54,16 @@ public class Operation {
         }
         System.out.println("------------");
 
-        for (int i1 = 5; i1 > 0; i1++) {
-            System.out.println(i1);
-        }
-
         char ch = 'C';
 
+        short myShort = 12;
+        int myInt = myShort;
+
+        double myDouble = 12.5;
+        int abc = (int)myDouble;
+
+        System.out.println(abc);
+        System.out.println(5%2);
 
     }
 

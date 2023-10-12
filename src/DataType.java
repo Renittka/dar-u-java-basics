@@ -2,6 +2,16 @@ public class DataType {
 
     public static void main(String[] args) {
 
+        //char letterA = 'A';
+
+        char gradeA = 'A';
+        char gradeB = 'B';
+        char gradeC = 'C';
+
+        System.out.println("Result: " + 20 + 20);
+        System.out.println("Result: " + (20 + 20));
+        System.out.println(20 + 20);
+
         short a = 20;
         short b = -20;
         System.out.println(a + b);
@@ -62,6 +72,7 @@ public class DataType {
         System.out.println("Hello, " + name + "! " + 123 + 123);
 
         final double PI = 3.14;
+        final double myPI = 3.14;
 
         int myNumber = 5;
         int mynumber = 10;
@@ -77,6 +88,17 @@ public class DataType {
 
         // Однострочный комментарий
         */
+
+
+        int ab = 12;
+
+        System.out.println(ab);
+
+        String helloWorld = "Hello World!";
+        System.out.println(helloWorld);
+
+        helloWorld = "Hello, Java!";
+        System.out.println(helloWorld);
 
         doSomething();
 
