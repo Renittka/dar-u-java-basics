@@ -89,7 +89,6 @@ public class DataType {
         // Однострочный комментарий
         */
 
-
         int ab = 12;
 
         System.out.println(ab);
