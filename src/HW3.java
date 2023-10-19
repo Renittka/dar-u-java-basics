@@ -85,6 +85,7 @@ public class HW3 {
             System.out.println("Введите корректное значение времени");
         }
 
+
         String day = "MONDAY";
 
         switch (day) {

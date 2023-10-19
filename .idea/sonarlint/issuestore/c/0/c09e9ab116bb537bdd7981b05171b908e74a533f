@@ -72,7 +72,7 @@ java:S1481M"-Remove this unused "myNumber" local variable.(“÷ë/8Õˆ†§±1
 O
 java:S1481N"-Remove this unused "mynumber" local variable.(ĞÕ…ûÿÿÿÿ8Õˆ†§±1
 X	java:S125Q"<This block of commented-out lines of code should be removed.( …òƒ8Öˆ†§±1
-G	java:S106_"+Replace this use of System.out by a logger.(üåË8Â€™§±1
-L	java:S106b"+Replace this use of System.out by a logger.(º‚ìüÿÿÿÿ8Ã€™§±1
-L	java:S106e"+Replace this use of System.out by a logger.(º‚ìüÿÿÿÿ8èÖ§±1
-L	java:S106m"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8œÉ§±1
+G	java:S106^"+Replace this use of System.out by a logger.(üåË8Â€™§±1
+L	java:S106a"+Replace this use of System.out by a logger.(º‚ìüÿÿÿÿ8Ã€™§±1
+L	java:S106d"+Replace this use of System.out by a logger.(º‚ìüÿÿÿÿ8èÖ§±1
+L	java:S106l"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8œÉ§±1

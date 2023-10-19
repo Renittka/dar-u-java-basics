@@ -1,13 +1,18 @@
 
+W
+java:S1854"5Remove this useless assignment to local variable "s".(ª·­»üÿÿÿÿ8µ¸ŞÇ³1
 _
 java:S1854
-"BRemove this useless assignment to local variable "MY_CITY_ALMATY".(úËú”8±©ô¡²1
+"BRemove this useless assignment to local variable "MY_CITY_ALMATY".(úËú”8µ¸ŞÇ³1
 \
-java:S1854	":Remove this useless assignment to local variable "myCity".(ÜË¨¥úÿÿÿÿ8ìúõ¡²1
-L	java:S106"+Replace this use of System.out by a logger.(­èâ úÿÿÿÿ8Š“Å§±1
+java:S1854	":Remove this useless assignment to local variable "myCity".(ÜË¨¥úÿÿÿÿ8µ¸ŞÇ³1
+L	java:S106"+Replace this use of System.out by a logger.(­èâ úÿÿÿÿ8µ¸ŞÇ³1
 M
-java:S1481	"+Remove this unused "myCity" local variable.(ÜË¨¥úÿÿÿÿ8³©ô¡²1
+java:S1481	"+Remove this unused "myCity" local variable.(ÜË¨¥úÿÿÿÿ8¶¸ŞÇ³1
 P
 java:S1481
-"3Remove this unused "MY_CITY_ALMATY" local variable.(úËú”8Èéõ¡²1
-G	java:S106"+Replace this use of System.out by a logger.(æ´İ¡8 İü¡²1
+"3Remove this unused "MY_CITY_ALMATY" local variable.(úËú”8¶¸ŞÇ³1
+G	java:S106"+Replace this use of System.out by a logger.(æ´İ¡8¶¸ŞÇ³1
+H
+java:S1481"&Remove this unused "s" local variable.(ª·­»üÿÿÿÿ8¶¸ŞÇ³1
+L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8²ÏßÇ³1
