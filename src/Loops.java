@@ -59,7 +59,7 @@ public class Loops {
         String str = "12345";
         int size = str.length();
 
-        
+
         int number = 12345;
 
 
@@ -86,7 +86,6 @@ public class Loops {
             }
             System.out.println(i);
         }
-
 
         System.out.println("-------");
         int count = 0;
