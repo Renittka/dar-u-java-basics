@@ -1,0 +1,32 @@
+
+e
+java:S2184P"HCast one of the operands of this multiplication operation to a "double".(Å®©¸8ÍÍ„èµ1
+R
+java:S1854O"5Remove this useless assignment to local variable "o".(€ÑØª8ÒÍ„èµ1
+G	java:S106	"+Replace this use of System.out by a logger.(òŞà·8ÒÍ„èµ1
+L	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÓÍ„èµ1
+G	java:S106"+Replace this use of System.out by a logger.(àÉ¨ì8ÓÍ„èµ1
+L	java:S106"+Replace this use of System.out by a logger.(œØ±“ÿÿÿÿÿ8ÓÍ„èµ1
+G	java:S106 "+Replace this use of System.out by a logger.(Ù·³Ğ8ÓÍ„èµ1
+L	java:S106!"+Replace this use of System.out by a logger.(®‚¼×úÿÿÿÿ8ÓÍ„èµ1
+L	java:S106""+Replace this use of System.out by a logger.(Ñ†ŠÙøÿÿÿÿ8ÓÍ„èµ1
+L	java:S106#"+Replace this use of System.out by a logger.(ÏŠñğıÿÿÿÿ8ÓÍ„èµ1
+G	java:S106$"+Replace this use of System.out by a logger.(¬Ş÷8ÓÍ„èµ1
+L	java:S106%"+Replace this use of System.out by a logger.(ï“œ÷ıÿÿÿÿ8ÓÍ„èµ1
+G	java:S106&"+Replace this use of System.out by a logger.(‰÷àä8ÓÍ„èµ1
+L	java:S106,"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿ8ÔÍ„èµ1
+O
+java:S14814"-Remove this unused "isSorted" local variable.(˜ö«çÿÿÿÿÿ8ÔÍ„èµ1
+O
+java:S14815"-Remove this unused "isActive" local variable.(Ì“ê¦ûÿÿÿÿ8ÔÍ„èµ1
+G	java:S1067"+Replace this use of System.out by a logger.(„ş¼í8ÔÍ„èµ1
+L	java:S106@"+Replace this use of System.out by a logger.(Š¼èøøÿÿÿÿ8ÔÍ„èµ1
+L	java:S106C"+Replace this use of System.out by a logger.(ÆÒšüşÿÿÿÿ8ÔÍ„èµ1
+L	java:S106E"+Replace this use of System.out by a logger.(é¤ç ıÿÿÿÿ8ÔÍ„èµ1
+L	java:S106I"+Replace this use of System.out by a logger.(é¤ç ıÿÿÿÿ8ÔÍ„èµ1
+L	java:S106K"+Replace this use of System.out by a logger.(ÆÒšüşÿÿÿÿ8ÔÍ„èµ1
+C
+java:S1481O"&Remove this unused "o" local variable.(€ÑØª8ÕÍ„èµ1
+L	java:S106R"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8ÕÍ„èµ1
+G	java:S106\"+Replace this use of System.out by a logger.(Šé¾8ÕÍ„èµ1
+G	java:S106]"+Replace this use of System.out by a logger.(ÁŸÎ‘8’¾Šèµ1

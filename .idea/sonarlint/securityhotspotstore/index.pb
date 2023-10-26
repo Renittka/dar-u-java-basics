@@ -11,3 +11,9 @@ B
 src/HW3.java,7/4/742ecc184131a3428da08fa03f57a4c855a42b0b
 >
 src/Loops.java,7/e/7e990ec1fd29c5c32d90e8c96a8fa39b9fd50877
+<
+src/HW4.java,4/b/4b4a8b0c9e848146b1faac143077159e949617d8
+<
+src/HW5.java,e/2/e21db0f82eead223966dc194b4430571740a8613
+?
+src/Arrays.java,6/3/633db0627e25cab6910ec2aedfd3bac52672c1c7

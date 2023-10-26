@@ -87,24 +87,15 @@ public class HW3 {
 
 
         String day = "MONDAY";
+        String weekDay = "";
 
         switch (day) {
-            case "MONDAY": {
-                System.out.println("Понедельник");
-                break;
-            }
-            case "TUESDAY": {
-                System.out.println("Вторник");
-                break;
-            }
-            case "WEDNESDAY": {
-                System.out.println("Среда");
-                break;
-            }
-            default: {
-                System.out.println("Выходной");
-            }
+            case "MONDAY" -> weekDay = "Понедельник";
+            case "TUESDAY" -> weekDay = "Вторник";
+            case "WEDNESDAY" -> weekDay = "Среда";
+            default -> weekDay = "Выходной";
         }
+        System.out.println(weekDay);
 
         switch (day) {
             case "MONDAY" -> System.out.println("Понедельник");
