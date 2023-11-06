@@ -68,6 +68,25 @@ public class HW3 {
             System.out.println("Все хорошо");
         }
 
+        printHelloWithTime();
+
+        String day = "MONDAY";
+        String weekDay = getWeekDay(day);
+
+        switch (weekDay) {
+            case "MONDAY" -> System.out.println("Понедельник");
+            case "TUESDAY" -> {
+                System.out.println("Вторник");
+                System.out.println("Пора работать");
+            }
+            case "WEDNESDAY" -> System.out.println("Среда");
+            default -> System.out.println("Выходной");
+
+        }
+
+    }
+
+    public static void printHelloWithTime() {
         int time = 20;
         int alarm;
 
@@ -84,10 +103,10 @@ public class HW3 {
         } else {
             System.out.println("Введите корректное значение времени");
         }
+    }
 
-
-        String day = "MONDAY";
-        String weekDay = "";
+    public static String getWeekDay(String day) {
+        String weekDay;
 
         switch (day) {
             case "MONDAY" -> weekDay = "Понедельник";
@@ -95,18 +114,8 @@ public class HW3 {
             case "WEDNESDAY" -> weekDay = "Среда";
             default -> weekDay = "Выходной";
         }
-        System.out.println(weekDay);
 
-        switch (day) {
-            case "MONDAY" -> System.out.println("Понедельник");
-            case "TUESDAY" -> {
-                System.out.println("Вторник");
-                System.out.println("Пора работать");
-            }
-            case "WEDNESDAY" -> System.out.println("Среда");
-            default -> System.out.println("Выходной");
-
-        }
-
+        return weekDay;
     }
+
 }

@@ -103,7 +103,7 @@ public class DataType {
 
     }
 
-    static void doSomething() {
+     static void doSomething() {
         int a = 10;
         System.out.println(a);
     }

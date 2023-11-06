@@ -1,8 +1,34 @@
 
 P
-java:S1121".Extract the assignment out of this expression.(–Šˆµùÿÿÿÿ8©ÌÇèµ1
-L	java:S106"+Replace this use of System.out by a logger.(¹ò“æÿÿÿÿÿ8ÆÌÇèµ1
-L	java:S106"+Replace this use of System.out by a logger.(–Šˆµùÿÿÿÿ8ÆÌÇèµ1
-X	java:S125"<This block of commented-out lines of code should be removed.(¨ÞÃã8ÇÌÇèµ1
-L	java:S1066"+Replace this use of System.out by a logger.(ÄºÞþÿÿÿÿ8™äÉèµ1
-L	java:S1069"+Replace this use of System.out by a logger.(¶Üÿøÿÿÿÿ8šÚÊèµ1
+java:S1121".Extract the assignment out of this expression.(–Šˆµùÿÿÿÿ8ÁÇïä¶1
+n
+java:S1301Ã"KReplace this "switch" statement by "if" statements to increase readability.(œÕä³ýÿÿÿÿ8ÁÇïä¶1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(Çµí‘8þÇïä¶1
+L	java:S106"+Replace this use of System.out by a logger.(¹ò“æÿÿÿÿÿ8ÿÇïä¶1
+L	java:S106"+Replace this use of System.out by a logger.(–Šˆµùÿÿÿÿ8ÿÇïä¶1
+X	java:S125"<This block of commented-out lines of code should be removed.(¨ÞÃã8ÿÇïä¶1
+L	java:S1067"+Replace this use of System.out by a logger.(ÄºÞþÿÿÿÿ8ÿÇïä¶1
+L	java:S106:"+Replace this use of System.out by a logger.(¶Üÿøÿÿÿÿ8ÿÇïä¶1
+L	java:S106A"+Replace this use of System.out by a logger.(¦…›ðùÿÿÿÿ8€Èïä¶1
+X	java:S125E"<This block of commented-out lines of code should be removed.(ŽÓš…8€Èïä¶1
+X	java:S125K"<This block of commented-out lines of code should be removed.(Ó¤”8€Èïä¶1
+L	java:S106U"+Replace this use of System.out by a logger.(Ó”áÆþÿÿÿÿ8€Èïä¶1
+L	java:S106W"+Replace this use of System.out by a logger.(Œ¥Åúùÿÿÿÿ8€Èïä¶1
+L	java:S106["+Replace this use of System.out by a logger.(–œæùÿÿÿÿ8€Èïä¶1
+L	java:S106z"+Replace this use of System.out by a logger.(½¬Òèùÿÿÿÿ8€Èïä¶1
+G	java:S106|"+Replace this use of System.out by a logger.(„Ë¥®8Èïä¶1
+M	java:S106‚"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ8Èïä¶1
+M	java:S106„"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Èïä¶1
+^	java:S125†"<This block of commented-out lines of code should be removed.(†…–Ùùÿÿÿÿ8Èïä¶1
+M	java:S106¬"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ8Èïä¶1
+M	java:S106®"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Èïä¶1
+H	java:S106½"+Replace this use of System.out by a logger.(ÐèòÀ8Èïä¶1
+D	java:S131Ã""Add a default case to this switch.(œÕä³ýÿÿÿÿ8Èïä¶1
+H	java:S106È"+Replace this use of System.out by a logger.(Ïµ‹¶8Èïä¶1
+H	java:S106Ï"+Replace this use of System.out by a logger.(Ö©î8Èïä¶1
+H	java:S106Ó"+Replace this use of System.out by a logger.(¼—–8‚Èïä¶1
+M	java:S106Ø"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8Ž¶òä¶1
+H	java:S106á"+Replace this use of System.out by a logger.(ã‰Ï¡8Æ…óä¶1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 110 to 64, Complexity from 31 to 14, Nesting Level from 3 to 2, Number of Variables from 35 to 6.(Çµí‘8‚Èïä¶1

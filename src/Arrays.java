@@ -5,6 +5,8 @@ public class Arrays {
         //                 0  1  2  3
         // length = 4
 
+        int myNumbers2[];
+
         for (int num : myNumbers) {
             System.out.print(num + " ");
         }
