@@ -3,6 +3,22 @@
 java:S1643!"Use a StringBuilder instead.(»àœ¼ÿÿÿÿÿ8ä‹¸‡¸1
 9
 java:S1643#"Use a StringBuilder instead.(±«¢û8ä‹¸‡¸1
-X	java:S125"<This block of commented-out lines of code should be removed.(…‰8í‹¸‡¸1
-G	java:S106&"+Replace this use of System.out by a logger.(×•œ²8í‹¸‡¸1
-L	java:S106("+Replace this use of System.out by a logger.(¶·¶”þÿÿÿÿ8í‹¸‡¸1
+W
+java:S1854"5Remove this useless assignment to local variable "s".(ª·­»üÿÿÿÿ8òØ”¢»1
+_
+java:S1854
+"BRemove this useless assignment to local variable "MY_CITY_ALMATY".(úËú”8òØ”¢»1
+\
+java:S1854	":Remove this useless assignment to local variable "myCity".(ÜË¨¥úÿÿÿÿ8òØ”¢»1
+L	java:S106"+Replace this use of System.out by a logger.(­èâ úÿÿÿÿ8í‹¸‡¸1
+M
+java:S1481	"+Remove this unused "myCity" local variable.(ÜË¨¥úÿÿÿÿ8óØ”¢»1
+P
+java:S1481
+"3Remove this unused "MY_CITY_ALMATY" local variable.(úËú”8óØ”¢»1
+G	java:S106"+Replace this use of System.out by a logger.(æ´Ý¡8í‹¸‡¸1
+H
+java:S1481"&Remove this unused "s" local variable.(ª·­»üÿÿÿÿ8ôØ”¢»1
+L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ôØ”¢»1
+G	java:S106&"+Replace this use of System.out by a logger.(×•œ²8ôØ”¢»1
+L	java:S106("+Replace this use of System.out by a logger.(¶·¶”þÿÿÿÿ8ôØ”¢»1

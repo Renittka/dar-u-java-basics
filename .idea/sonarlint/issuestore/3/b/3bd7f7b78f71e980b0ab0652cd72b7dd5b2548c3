@@ -1,0 +1,45 @@
+
+j
+java:S1192*"MDefine a constant instead of duplicating this literal "------------" 3 times.(áñÁ·8Æ¢Š¨±1
+W
+java:S1854":Remove this useless assignment to local variable "result".(¥ğÛ°8Í¢Š¨±1
+X
+java:S1854";Remove this useless assignment to local variable "MY_CITY".(¸²ïã8Í¢Š¨±1
+W
+java:S1854"5Remove this useless assignment to local variable "G".(Õ²ÂØûÿÿÿÿ8Í¢Š¨±1
+V
+java:S1854>"9Remove this useless assignment to local variable "myInt".(¯¿ªë8Í¢Š¨±1
+X
+java:S1854;"6Remove this useless assignment to local variable "ch".(í×¿›ùÿÿÿÿ8Í¢Š¨±1
+H
+java:S1481"&Remove this unused "G" local variable.(Õ²ÂØûÿÿÿÿ8Í¢Š¨±1
+I
+java:S1481",Remove this unused "MY_CITY" local variable.(¸²ïã8Í¢Š¨±1
+G	java:S106"+Replace this use of System.out by a logger.(Š¦ÊŸ8Î¢Š¨±1
+G	java:S106"+Replace this use of System.out by a logger.(ÿ½šå8Î¢Š¨±1
+G	java:S106"+Replace this use of System.out by a logger.(ªÖ÷–8Î¢Š¨±1
+G	java:S106"+Replace this use of System.out by a logger.(¿³¢8Î¢Š¨±1
+G	java:S106"+Replace this use of System.out by a logger.(ÏÓ©Œ8Î¢Š¨±1
+H
+java:S1481"+Remove this unused "result" local variable.(¥ğÛ°8Î¢Š¨±1
+L	java:S106!"+Replace this use of System.out by a logger.(–Ä×ıÿÿÿÿ8Î¢Š¨±1
+G	java:S106""+Replace this use of System.out by a logger.(œ¹Œµ8Ï¢Š¨±1
+L	java:S106%"+Replace this use of System.out by a logger.(Æ‘Ÿÿÿÿÿÿ8Ï¢Š¨±1
+L	java:S106&"+Replace this use of System.out by a logger.(ñ‡½ıÿÿÿÿ8Ï¢Š¨±1
+L	java:S106'"+Replace this use of System.out by a logger.(¾øğ®şÿÿÿÿ8Ï¢Š¨±1
+F	java:S106("+Replace this use of System.out by a logger.(å¿ü:8Ï¢Š¨±1
+G	java:S106*"+Replace this use of System.out by a logger.(áñÁ·8Ï¢Š¨±1
+L	java:S106,"+Replace this use of System.out by a logger.(Æ‘Ÿÿÿÿÿÿ8Ï¢Š¨±1
+G	java:S106-"+Replace this use of System.out by a logger.(“Ø„‰8Ï¢Š¨±1
+L	java:S106."+Replace this use of System.out by a logger.(áÓñøúÿÿÿÿ8Ï¢Š¨±1
+F	java:S106/"+Replace this use of System.out by a logger.(å¿ü:8Ï¢Š¨±1
+G	java:S1062"+Replace this use of System.out by a logger.(‚¨Ö§8Ğ¢Š¨±1
+G	java:S1064"+Replace this use of System.out by a logger.(áñÁ·8Ğ¢Š¨±1
+F	java:S1067"+Replace this use of System.out by a logger.(÷Å‘Y8Ğ¢Š¨±1
+G	java:S1069"+Replace this use of System.out by a logger.(áñÁ·8Ğ¢Š¨±1
+I
+java:S1481;"'Remove this unused "ch" local variable.(í×¿›ùÿÿÿÿ8Ğ¢Š¨±1
+G
+java:S1481>"*Remove this unused "myInt" local variable.(¯¿ªë8Ğ¢Š¨±1
+L	java:S106C"+Replace this use of System.out by a logger.(æ·ğ÷şÿÿÿÿ8 ‡Œ¨±1
+G	java:S106D"+Replace this use of System.out by a logger.(£ôõš8¯ë¨±1
