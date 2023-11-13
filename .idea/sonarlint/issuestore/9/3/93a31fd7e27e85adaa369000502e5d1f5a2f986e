@@ -1,0 +1,48 @@
+
+b
+java:S1192K"GDefine a constant instead of duplicating this literal "MONDAY" 3 times.(Ç³»ıÿÿÿÿ
+h
+java:S1854"MRemove this useless assignment to local variable "MY_COMPANY_DAR_UNIVERSITY".(Ø¼™Àøÿÿÿÿ
+U
+java:S1854
+"?Remove this useless assignment to local variable "flowersName".(©æéÇ
+F
+java:S1481
+"0Remove this unused "flowersName" local variable.(©æéÇ
+Y
+java:S1481">Remove this unused "MY_COMPANY_DAR_UNIVERSITY" local variable.(Ø¼™Àøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ìÄË¡
+@	java:S106"+Replace this use of System.out by a logger.(åä²
+E	java:S106"+Replace this use of System.out by a logger.(¤µå‡ùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(èñÅÆ
+E	java:S106"+Replace this use of System.out by a logger.(°Ä·äıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(öÇË“úÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(»„Á
+?	java:S106 "+Replace this use of System.out by a logger.(ÌÃ<
+E	java:S106!"+Replace this use of System.out by a logger.(›ÔÙ¦üÿÿÿÿ
+4
+java:S2178!"Correct this "&" to "&&".(›ÔÙ¦üÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(ùêãµ
+/
+java:S2178""Correct this "|" to "||".(ùêãµ
+@	java:S106#"+Replace this use of System.out by a logger.(¶Àá¾
+?
+java:S1940#")Use the opposite operator ("<=") instead.(¶Àá¾
+@	java:S106$"+Replace this use of System.out by a logger.(¼Ö‰
+V	java:S1259"<This block of commented-out lines of code should be removed.(Ç¼îûÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(àÍ¤
+@	java:S106D"+Replace this use of System.out by a logger.(À‘“Ì
+@	java:S106F"+Replace this use of System.out by a logger.(ÆØÁ‰
+E	java:S106O"+Replace this use of System.out by a logger.(ÿß«×úÿÿÿÿ
+@	java:S106Q"+Replace this use of System.out by a logger.(šÓ®ã
+E	java:S106R"+Replace this use of System.out by a logger.(øÂŞÓüÿÿÿÿ
+E	java:S106T"+Replace this use of System.out by a logger.(–±¤æüÿÿÿÿ
+@	java:S106U"+Replace this use of System.out by a logger.(ğğ†Ô
+O
+java:S1854c"9Remove this useless assignment to local variable "alarm".(©­
+O
+java:S1854f"9Remove this useless assignment to local variable "alarm".(©­
+E	java:S106a"+Replace this use of System.out by a logger.(É ˜Œùÿÿÿÿ
+E	java:S106d"+Replace this use of System.out by a logger.(ÂÈÍ·øÿÿÿÿ
+@	java:S106h"+Replace this use of System.out by a logger.(ü­´‘
+E	java:S106j"+Replace this use of System.out by a logger.(™µ³ºşÿÿÿÿ

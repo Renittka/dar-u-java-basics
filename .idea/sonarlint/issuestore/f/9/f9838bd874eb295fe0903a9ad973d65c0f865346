@@ -9,14 +9,14 @@ _
 java:S1854"BRemove this useless assignment to local variable "MY_CITY_ALMATY".(úËú”8òØ”¢»1
 \
 java:S1854":Remove this useless assignment to local variable "myCity".(ÜË¨¥úÿÿÿÿ8òØ”¢»1
-L	java:S106"+Replace this use of System.out by a logger.(­èâ úÿÿÿÿ8í‹¸‡¸1
+L	java:S106"+Replace this use of System.out by a logger.(­èâ úÿÿÿÿ8ôØ”¢»1
 M
 java:S1481"+Remove this unused "myCity" local variable.(ÜË¨¥úÿÿÿÿ8óØ”¢»1
 P
 java:S1481"3Remove this unused "MY_CITY_ALMATY" local variable.(úËú”8óØ”¢»1
-G	java:S106"+Replace this use of System.out by a logger.(æ´İ¡8í‹¸‡¸1
+G	java:S106"+Replace this use of System.out by a logger.(æ´İ¡8ôØ”¢»1
 H
 java:S1481"&Remove this unused "s" local variable.(ª·­»üÿÿÿÿ8ôØ”¢»1
 L	java:S106"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8ôØ”¢»1
-G	java:S106("+Replace this use of System.out by a logger.(×•œ²8ôØ”¢»1
-L	java:S106*"+Replace this use of System.out by a logger.(¶·¶”şÿÿÿÿ8ôØ”¢»1
+G	java:S106("+Replace this use of System.out by a logger.(×•œ²8‰í¾—¼1
+L	java:S106*"+Replace this use of System.out by a logger.(¶·¶”şÿÿÿÿ8‰í¾—¼1
