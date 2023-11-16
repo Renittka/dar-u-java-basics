@@ -23,15 +23,13 @@ K
 src/lectures/Recursion.java,e/b/ebb00a92ac436a9a2fc455dbf4f977620b521dd6
 E
 src/homework/HW3.java,9/3/93a31fd7e27e85adaa369000502e5d1f5a2f986e
-H
-src/lectures/Animal.java,7/c/7c447421870de91b8caaffca1b5d5d10376f43fb
 F
 src/animal/Animal.java,9/e/9ee5f498235f73c52844a9e282d2a6ddbd778464
 F
 src/animal/Person.java,9/9/998723775b3aadae940ef4b503d1916acc11eda0
-F
-src/lectures/Main.java,4/b/4b96f8b86f73985ec051f44a87b8481f10f3855c
 D
 src/animal/Main.java,b/e/be54a7177b7382a2aa31e98eb21daaf5606b5b2d
 E
 src/animal/Movie.java,6/f/6fbde4c7ff08e57cc7c6cbaad154767bf4fb0f0f
+D
+src/animal/Util.java,1/2/1230b7c10fea5cdf5ef891a894cf5873c40911be

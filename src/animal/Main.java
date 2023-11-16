@@ -2,18 +2,15 @@ package animal;
 
 public class Main {
 
-    public static void main(String[] args) {
-        // Task 1
-        Animal myAnimal = new Animal();
-        System.out.println("My dog: " + myAnimal.name);
-        myAnimal.age = 10;
-        System.out.println(myAnimal.age);
-        myAnimal.name = "Dog";
-        System.out.println("My dog: " + myAnimal.name);
+    static final String MY_CITY = "Almaty";
 
-        int a = 10;
-        int b = 5;
-        a = -10;
+    public static void main(String[] args) {
+        Animal myAnimal = new Animal();
+        myAnimal.age = 10;
+        myAnimal.name = "Dog";
+        myAnimal.speed = 10;
+
+        myAnimal.run();
 
         Animal myCat = new Animal();
         System.out.println(myCat.age);
@@ -26,5 +23,24 @@ public class Main {
         person1.company = "DAR";
         person1.salary = 200000;
 
+        Movie myMovie = new Movie();
+        myMovie.rating = 9;
+        System.out.println(myMovie.rating);
+        System.out.println(myMovie.isGoodMovie());
+
+        Movie.doSomethingStatic();
+
+        System.out.println(Math.max(10, 120));
+
+        Animal defaultAnimal = new Animal();
+        System.out.println(defaultAnimal);
+
+        Animal cat = new Animal("Cat");
+        Animal dog = new Animal("Dog", 10);
+        Animal cat2 = new Animal("Cat 2", 5, "Black", 10);
+
+        System.out.println(dog);
+        System.out.println(cat2);
+        System.out.println(cat);
     }
 }
