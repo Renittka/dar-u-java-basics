@@ -14,8 +14,8 @@ public class Animal {
     }
 
     public Animal(String name) {
-        this.name = name;
         //name = newName;
+        this.name = name;
     }
 
     public Animal(String name, int age) {
@@ -41,10 +41,18 @@ public class Animal {
         }
     }
 
+    public void printInfo() {
+        // Option 1
+        String info = String.format("Name: %s, type: %s, age: %d, speed: %d", name, type, age, speed);
+        System.out.println(info);
+
+        // Option 2
+        System.out.printf("Name: %s, type: %s, age: %d, speed: %d \n", name, type, age, speed);
+    }
 
     @Override
     public String toString() {
-        return name + " " + type + " " + age;
+        return String.format("Name: %s, type: %s, age: %d, speed: %d", name, type, age, speed);
     }
 
 //    public void run(int speed) {

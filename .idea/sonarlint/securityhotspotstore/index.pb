@@ -33,3 +33,11 @@ E
 src/animal/Movie.java,6/f/6fbde4c7ff08e57cc7c6cbaad154767bf4fb0f0f
 D
 src/animal/Util.java,1/2/1230b7c10fea5cdf5ef891a894cf5873c40911be
+H
+src/homework/Animal.java,e/e/ee1a4f1aa237a8b1132a6c58934a77d6f7c3ac2c
+F
+src/figure/Figure.java,d/6/d6ff0736b950b21607231d13ff23c6715ae1e329
+F
+src/figure/Square.java,7/e/7edc5133b80ad4f2e3caaf536ab41810a27df16a
+F
+src/figure/Circle.java,a/e/ae2eaecbd91ebb00c79a7ea123cc3236fb45efd1
