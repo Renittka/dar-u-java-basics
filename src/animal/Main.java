@@ -1,27 +1,31 @@
 package animal;
 
+import java.util.Scanner;
+
 public class Main {
 
     static final String MY_CITY = "Almaty";
 
     public static void main(String[] args) {
-        Animal myAnimal = new Animal();
-        myAnimal.age = 10;
-        myAnimal.name = "Dog";
-        myAnimal.speed = 10;
 
+        homework.Animal mySecondAnimal = new homework.Animal();
+
+        Animal myAnimal = new Animal("Rex", 10, "Dog", 5);
+
+        myAnimal.setSpeed(0);
         myAnimal.run();
+        System.out.println(myAnimal);
 
         Animal myCat = new Animal();
-        System.out.println(myCat.age);
-        System.out.println("My cat: " + myCat.name);
+        System.out.println(myCat.getAge());
+        System.out.println("My cat: " + myCat.getName());
 
         Person person1 = new Person();
-        person1.name = "Maria";
-        person1.surname = "Smith";
-        person1.age = 25;
-        person1.company = "DAR";
-        person1.salary = 200000;
+        person1.setName("Maria");
+        person1.setSurname("Smith");
+        person1.setAge(25);
+        person1.setCompany("DAR");
+        person1.setAge(200000);
 
         Movie myMovie = new Movie();
         myMovie.rating = 9;
@@ -41,10 +45,6 @@ public class Main {
         Animal dog = new Animal("Dog", 10);
         Animal cat2 = new Animal("Cat 2", 5, "Black", 10);
 
-//        System.out.println(dog.name + " " + dog.speed + " " + dog.type);
-//        System.out.println(cat.name + " " + cat.speed + " " + cat.type);
-//        System.out.println(cat2.name + " " + cat2.speed + " " + cat2.type);
-
         // Custom method usage
         cat.printInfo();
         cat2.printInfo();
@@ -59,6 +59,21 @@ public class Main {
         int digit = 2;
         int count = countSpecificDigit(number, digit);
         System.out.println("Количество цифр " + count);
+
+
+        Scanner scan = new Scanner(System.in);
+        System.out.println("Введите имя");
+        String name = scan.next();
+        System.out.println("Введите возраст");
+        int age = scan.nextInt();
+        System.out.println("Введите тип");
+        String type = scan.next();
+        System.out.println("Введите скорость");
+        int speed = scan.nextInt();
+
+        Animal newAnimal = new Animal(name, age, type, speed);
+        System.out.println(newAnimal);
+
     }
 
     private static int countSpecificDigit(int number, int digit) {

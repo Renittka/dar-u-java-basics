@@ -1,14 +1,23 @@
 
-F	java:S106"+Replace this use of System.out by a logger.(ÌŒèL8º‹ğè¾1
-L	java:S106"+Replace this use of System.out by a logger.(•Ì£¯ÿÿÿÿÿ8º‹ğè¾1
-L	java:S106"+Replace this use of System.out by a logger.(ŞÌ¤—øÿÿÿÿ8º‹ğè¾1
-L	java:S106"+Replace this use of System.out by a logger.(ƒ’…Şûÿÿÿÿ8»‹ğè¾1
-G	java:S106!"+Replace this use of System.out by a logger.(š¹´8»‹ğè¾1
-G	java:S106$"+Replace this use of System.out by a logger.(¢î³‚8»‹ğè¾1
-X	java:S125'"<This block of commented-out lines of code should be removed.(õ¿°º8¼‹ğè¾1
-X	java:S125,"<This block of commented-out lines of code should be removed.(‘ ½ê8øà„é¾1
-L	java:S1066"+Replace this use of System.out by a logger.(Ô‚ˆ®øÿÿÿÿ8Ûª„é¾1
-L	java:S1067"+Replace this use of System.out by a logger.(œı×õÿÿÿÿÿ8Üª„é¾1
-G	java:S1068"+Replace this use of System.out by a logger.(¸¿ª8ƒˆ†é¾1
-L	java:S106="+Replace this use of System.out by a logger.(¢Ÿ€üÿÿÿÿ8±•´é¾1
-G	java:S106B"+Replace this use of System.out by a logger.(îöˆ8¿Ã´é¾1
+_
+java:S1854"BRemove this useless assignment to local variable "mySecondAnimal".(â¬¡À8£ïªæ¿1
+P
+java:S1481"3Remove this unused "mySecondAnimal" local variable.(â¬¡À8¤ïªæ¿1
+L	java:S106"+Replace this use of System.out by a logger.(½öÕ„ùÿÿÿÿ8¤ïªæ¿1
+L	java:S106"+Replace this use of System.out by a logger.(„±‹ıÿÿÿÿ8¤ïªæ¿1
+L	java:S106"+Replace this use of System.out by a logger.(¿Ğéäøÿÿÿÿ8¥ïªæ¿1
+L	java:S106 "+Replace this use of System.out by a logger.(ŞÌ¤—øÿÿÿÿ8¥ïªæ¿1
+L	java:S106!"+Replace this use of System.out by a logger.(ƒ’…Şûÿÿÿÿ8¥ïªæ¿1
+G	java:S106%"+Replace this use of System.out by a logger.(š¹´8¦ïªæ¿1
+G	java:S106("+Replace this use of System.out by a logger.(¢î³‚8¦ïªæ¿1
+X	java:S125+"<This block of commented-out lines of code should be removed.(õ¿°º8¦ïªæ¿1
+L	java:S1066"+Replace this use of System.out by a logger.(Ô‚ˆ®øÿÿÿÿ8§ïªæ¿1
+L	java:S1067"+Replace this use of System.out by a logger.(œı×õÿÿÿÿÿ8§ïªæ¿1
+G	java:S1068"+Replace this use of System.out by a logger.(¸¿ª8§ïªæ¿1
+L	java:S106="+Replace this use of System.out by a logger.(¢Ÿ€üÿÿÿÿ8§ïªæ¿1
+G	java:S106A"+Replace this use of System.out by a logger.(å”ª8¨ïªæ¿1
+G	java:S106C"+Replace this use of System.out by a logger.(‚¶Ğ®8©ïªæ¿1
+G	java:S106E"+Replace this use of System.out by a logger.(ùËà«8©ïªæ¿1
+G	java:S106G"+Replace this use of System.out by a logger.(ŠĞ¯İ8©ïªæ¿1
+G	java:S106K"+Replace this use of System.out by a logger.(„¤¼™8©ïªæ¿1
+G	java:S106Q"+Replace this use of System.out by a logger.(îöˆ8ªïªæ¿1
