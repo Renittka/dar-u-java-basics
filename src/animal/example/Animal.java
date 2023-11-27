@@ -1,15 +1,15 @@
-package animal;
+package animal.example;
 
 public class Animal {
-    private String name;
-    private int age = 5;
-    private String type;
-    private int speed;
+    protected String name;
+    protected int age = 5;
+    protected String type;
+    protected int speed;
 
     public Animal() {
         name = "Animal";
         age = 0;
-        type = "";
+        type = "No type";
         speed = 0;
     }
 
@@ -79,9 +79,9 @@ public class Animal {
 
     public void run() {
         if (speed == 0) {
-            System.out.println("Stopped");
+            System.out.println("Animal is stopped");
         } else {
-            System.out.println("Running with speed: " + speed);
+            System.out.println("Animal is running with speed: " + speed);
         }
     }
 

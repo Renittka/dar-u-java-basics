@@ -1,0 +1,11 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ü§›­8È³•å¿1
+X	java:S125%"<This block of commented-out lines of code should be removed.(Ë¥¼8Ê³•å¿1
+X	java:S1254"<This block of commented-out lines of code should be removed.(ıÕŠœ8Ê³•å¿1
+L	java:S106R"+Replace this use of System.out by a logger.(ÆôÛ²ùÿÿÿÿ8Ë³•å¿1
+L	java:S106T"+Replace this use of System.out by a logger.(°•ûÿÿÿÿ8Ë³•å¿1
+G	java:S106["+Replace this use of System.out by a logger.(™Ãø¤8Ì³•å¿1
+n
+java:S3457^"Q%n should be used in place of \n to produce the platform-specific line separator.(èëÒ8Ì³•å¿1
+G	java:S106^"+Replace this use of System.out by a logger.(èëÒ8Ì³•å¿1
+X	java:S125f"<This block of commented-out lines of code should be removed.(¢¬â·8Í³•å¿1

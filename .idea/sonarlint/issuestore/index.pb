@@ -43,7 +43,11 @@ H
 src/homework/Animal.java,e/e/ee1a4f1aa237a8b1132a6c58934a77d6f7c3ac2c
 D
 src/figure/Main.java,9/0/9028d9808161b6abb9a73e217ab80824dc624df2
-N
-src/exampleFolder/Example.java,4/3/43689be13dc7a4a50f69f0393c86138668a41580
 O
 src/example_folder/Example.java,7/c/7c0e6a3756211bbd59d8ccc4e8a89ca4eb7deda4
+K
+src/animal/example/Cat.java,d/4/d424c07d65202659865c45ca26a42ed489a11fbf
+N
+src/animal/example/Animal.java,c/c/ccc6001036696dc13a986bb64720d29aea85351d
+K
+src/animal/example/Dog.java,6/5/65835ebb0705a4b3118a3d45ae6a46470f81fd5c

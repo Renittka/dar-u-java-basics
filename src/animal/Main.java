@@ -1,5 +1,9 @@
 package animal;
 
+import animal.example.Animal;
+import animal.example.Cat;
+import animal.example.Dog;
+
 import java.util.Scanner;
 
 public class Main {
@@ -14,6 +18,7 @@ public class Main {
 
         myAnimal.setSpeed(0);
         myAnimal.run();
+
         System.out.println(myAnimal);
 
         Animal myCat = new Animal();
@@ -60,7 +65,6 @@ public class Main {
         int count = countSpecificDigit(number, digit);
         System.out.println("Количество цифр " + count);
 
-
         Scanner scan = new Scanner(System.in);
         System.out.println("Введите имя");
         String name = scan.next();
@@ -73,6 +77,24 @@ public class Main {
 
         Animal newAnimal = new Animal(name, age, type, speed);
         System.out.println(newAnimal);
+
+        Cat cat3 = new Cat("Catty", "No type", 3, "Black cat");
+        System.out.println(cat3);
+
+        cat3.run();
+
+        Cat cat4 = new Cat("Catty", "No type", 3, 5, "Black cat");
+        System.out.println(cat4);
+
+        Dog dog1 = new Dog();
+        System.out.println(dog1);
+
+        // Cat is an Animal
+        Animal cat5 = new Cat();
+        // Dog is an Animal
+        Animal dog2 = new Dog();
+        dog2.run();
+        cat5.run();
 
     }
 
