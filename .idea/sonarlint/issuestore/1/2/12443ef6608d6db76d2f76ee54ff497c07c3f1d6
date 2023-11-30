@@ -1,0 +1,8 @@
+
+[
+java:S1854
+"9Remove this useless assignment to local variable "myDog".(àìÈÍûÿÿÿÿ8¯î¼†Â1
+L	java:S106"+Replace this use of System.out by a logger.(©€ƒĞùÿÿÿÿ8¹»±†Â1
+L
+java:S1481
+"*Remove this unused "myDog" local variable.(àìÈÍûÿÿÿÿ8±î¼†Â1

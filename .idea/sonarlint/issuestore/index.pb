@@ -24,8 +24,6 @@ K
 E
 src/homework/HW3.java,9/3/93a31fd7e27e85adaa369000502e5d1f5a2f986e
 F
-src/animal/Animal.java,9/e/9ee5f498235f73c52844a9e282d2a6ddbd778464
-F
 src/animal/Person.java,9/9/998723775b3aadae940ef4b503d1916acc11eda0
 D
 src/animal/Main.java,b/e/be54a7177b7382a2aa31e98eb21daaf5606b5b2d
@@ -51,3 +49,27 @@ N
 src/animal/example/Animal.java,c/c/ccc6001036696dc13a986bb64720d29aea85351d
 K
 src/animal/example/Dog.java,6/5/65835ebb0705a4b3118a3d45ae6a46470f81fd5c
+N
+src/abstract_class/Animal.java,0/7/0701dd773c28a08e0295cc16d3219c6dc14b3485
+K
+src/abstract_class/Cat.java,2/b/2b51ee1feae9e4263a42ad060286135252c5e1a8
+L
+src/abstract_class/Main.java,1/2/12443ef6608d6db76d2f76ee54ff497c07c3f1d6
+N
+src/abstract_class/Parent.java,c/d/cdcf2af351c1a46cbf9b2b9f51152d4cdb1754cb
+P
+ src/abstract_class/Runnable.java,6/1/615d046fa92bc1cd869c7ae93f56964793d68a2a
+K
+src/abstract_class/Dog.java,c/e/cef84f7d6a9cf1913eb056681f2f1aa5a7f4b4cb
+Q
+!src/abstract_class/Swimmable.java,a/e/aeffe3c7c4d9602938757d378b65d43e0a4b4e06
+K
+src/abstract_class/Fax.java,0/a/0a24bd561b757713b60945c23fec514a9477ba57
+L
+src/abstract_class/Scan.java,2/9/29c8eebf2da6c387edb955364f50baca921f36f6
+O
+src/abstract_class/Printer.java,f/1/f1996509568c4a687708331bb009733086a6a0ac
+R
+"src/abstract_class/ScanAndFax.java,4/f/4ff65317e8588cd916706d7d9a83ab13329af1e8
+R
+"src/abstract_class/NewPrinter.java,d/1/d1acad0bc07a460cf00ec59b88e48ee0ecf26105
