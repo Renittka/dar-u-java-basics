@@ -73,3 +73,7 @@ R
 "src/abstract_class/ScanAndFax.java,4/f/4ff65317e8588cd916706d7d9a83ab13329af1e8
 R
 "src/abstract_class/NewPrinter.java,d/1/d1acad0bc07a460cf00ec59b88e48ee0ecf26105
+>
+src/Level.java,0/e/0eb407675107a2f5893f16242d13132d139dd2ee
+E
+src/figure/Level.java,2/f/2f143f2364b5be534bb225f1d9732ec72a1088d8

@@ -1,4 +1,15 @@
 
-]	java:S125"<This block of commented-out lines of code should be removed.(¬ˆ‘¾şÿÿÿÿ8´óå¿1
-G	java:S106"+Replace this use of System.out by a logger.(Â…íÿ8’´óå¿1
-L	java:S106"+Replace this use of System.out by a logger.(·ùßóıÿÿÿÿ8’´óå¿1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(¬ˆ‘¾şÿÿÿÿ8ß¬Ğ«Ã1
+U
+java:S1854"8Remove this useless assignment to local variable "scan".(ÅÒ²º8à¬Ğ«Ã1
+F
+java:S1481")Remove this unused "scan" local variable.(ÅÒ²º8á¬Ğ«Ã1
+X	java:S125"<This block of commented-out lines of code should be removed.(ãáì8â¬Ğ«Ã1
+L	java:S106"+Replace this use of System.out by a logger.(ºı—‚úÿÿÿÿ8â¬Ğ«Ã1
+G	java:S106"+Replace this use of System.out by a logger.(Âø­Ç8â¬Ğ«Ã1
+L	java:S106"+Replace this use of System.out by a logger.(í«‚­øÿÿÿÿ8â¬Ğ«Ã1
+G	java:S106!"+Replace this use of System.out by a logger.(£««ƒ8â¬Ğ«Ã1
+L	java:S106#"+Replace this use of System.out by a logger.(º²ëöøÿÿÿÿ8â¬Ğ«Ã1
+L	java:S106%"+Replace this use of System.out by a logger.(Ğò”úÿÿÿÿ8ã¬Ğ«Ã1
+L	java:S106)"+Replace this use of System.out by a logger.(öÅèÓûÿÿÿÿ8ã¬Ğ«Ã1
