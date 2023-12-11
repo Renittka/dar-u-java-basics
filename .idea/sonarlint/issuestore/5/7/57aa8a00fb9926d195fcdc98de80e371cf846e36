@@ -1,0 +1,18 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "randomId".(’Ñï¼úÿÿÿÿ8¹“÷ËÅ1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(éÔêÄúÿÿÿÿ8º“÷ËÅ1
+O
+java:S1481"-Remove this unused "randomId" local variable.(’Ñï¼úÿÿÿÿ8»“÷ËÅ1
+H
+java:S1481"&Remove this unused "i" local variable.(éÔêÄúÿÿÿÿ8¼“÷ËÅ1
+L	java:S106"+Replace this use of System.out by a logger.(¶‰¼‚ıÿÿÿÿ8½“÷ËÅ1
+L	java:S106"+Replace this use of System.out by a logger.(¯ Ü øÿÿÿÿ8îÔùËÅ1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8•ÿıËÅ1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ¨À¬üÿÿÿÿ8â¢ÿËÅ1
+G	java:S106"+Replace this use of System.out by a logger.(ñÕ‡€8¯¹„ÌÅ1
+H
+java:S1068"&Remove this unused "id" private field.(Æí¶áşÿÿÿÿ8½“÷ËÅ1
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8½“÷ËÅ1
