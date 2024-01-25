@@ -77,3 +77,5 @@ E
 src/figure/Level.java,2/f/2f143f2364b5be534bb225f1d9732ec72a1088d8
 G
 src/exception/Main.java,5/7/57aa8a00fb9926d195fcdc98de80e371cf846e36
+J
+src/leetcode/Solution.java,d/c/dc0a3026c6149eec38610e865646c0f41d80be71
